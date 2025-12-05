@@ -1,16 +1,58 @@
-# React + Vite
+# Personal Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive, and fast **Portfolio Website** built using **ReactJS**.  
+This portfolio showcases my skills, projects, experience, and contact information in a clean and visually appealing way.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
 
-## React Compiler
+-  **Built with ReactJS** – component-based, scalable code  
+-  **Modern UI/UX** – clean design with smooth animations  
+-  **Fully Responsive** – works on all screen sizes  
+-  **Dark/Light Mode** *(optional)*  
+-  **Reusable Components**  
+-  **Projects Section** – showcase of all my major works  
+-  **Contact Form** – easy way for recruiters to reach me  
+-  **Social Links Integration**
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **ReactJS**
+- **CSS / Tailwind**
+- **JavaScript**
+- **React Router**
+- **EmailJS**
+
+---
+
+## 📁 Folder Structure
+```
+/src
+├── components/sections
+├── assets
+├── App.jsx
+├── index.html
+├── App.css
+├── main.jsx
+```
+
+---
+
+## Installation & Setup
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/your-username/your-portfolio.git
+```
+### 2. Install dependencies
+```bash
+npm install
+```
+### 3. Run the development server
+```
+npm run dev
+```
+
